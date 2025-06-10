@@ -1,0 +1,404 @@
+Column: 
+ given_name
+
+Unique values: 
+ 1000
+
+Value counts: 
+              91
+ lachlan     25
+ joshua      24
+ emiily      24
+ jessica     17
+             ..
+ harrion      1
+ michadla     1
+ jeremf       1
+ jaimee       1
+ morrison     1
+Name: given_name, Length: 1000, dtype: int64
+
+Percentage of each unique value: 
+             0.041364
+ lachlan     0.011364
+ joshua      0.010909
+ emiily      0.010909
+ jessica     0.007727
+               ...   
+ harrion     0.000455
+ michadla    0.000455
+ jeremf      0.000455
+ jaimee      0.000455
+ morrison    0.000455
+Name: given_name, Length: 1000, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ surname
+
+Unique values: 
+ 1379
+
+Value counts: 
+              52
+ white       47
+ clarke      38
+ green       33
+ webb        29
+             ..
+ horslety     1
+ arc hie      1
+ robert       1
+ jeffreis     1
+ conzens      1
+Name: surname, Length: 1379, dtype: int64
+
+Percentage of each unique value: 
+             0.023636
+ white       0.021364
+ clarke      0.017273
+ green       0.015000
+ webb        0.013182
+               ...   
+ horslety    0.000455
+ arc hie     0.000455
+ robert      0.000455
+ jeffreis    0.000455
+ conzens     0.000455
+Name: surname, Length: 1379, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ street_number
+
+Unique values: 
+ 307
+
+Value counts: 
+         121
+2        74
+1        66
+5        64
+9        61
+       ... 
+242       1
+851       1
+1199      1
+279       1
+757       1
+Name: street_number, Length: 307, dtype: int64
+
+Percentage of each unique value: 
+        0.055000
+2       0.033636
+1       0.030000
+5       0.029091
+9       0.027727
+          ...   
+242     0.000455
+851     0.000455
+1199    0.000455
+279     0.000455
+757     0.000455
+Name: street_number, Length: 307, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ address_1
+
+Unique values: 
+ 1795
+
+Value counts: 
+                       92
+ totterdell street     7
+ jardine street        6
+ forbes street         6
+ beasley street        6
+                      ..
+ cooksey place         1
+ druit tplace          1
+ calvary clinic        1
+ madigan street        1
+ mcluckie crescent     1
+Name: address_1, Length: 1795, dtype: int64
+
+Percentage of each unique value: 
+                      0.041818
+ totterdell street    0.003182
+ jardine street       0.002727
+ forbes street        0.002727
+ beasley street       0.002727
+                        ...   
+ cooksey place        0.000455
+ druit tplace         0.000455
+ calvary clinic       0.000455
+ madigan street       0.000455
+ mcluckie crescent    0.000455
+Name: address_1, Length: 1795, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ address_2
+
+Unique values: 
+ 1589
+
+Value counts: 
+                                    387
+ brentwood vlge                     17
+ rowethorpe                         16
+ rosetta village                    12
+ villa 2                             9
+                                  ... 
+ blythealnds                         1
+ thomond                             1
+ bangor lodge                        1
+ nanto                               1
+ earle haven retirement village      1
+Name: address_2, Length: 1589, dtype: int64
+
+Percentage of each unique value: 
+                                   0.175909
+ brentwood vlge                    0.007727
+ rowethorpe                        0.007273
+ rosetta village                   0.005455
+ villa 2                           0.004091
+                                     ...   
+ blythealnds                       0.000455
+ thomond                           0.000455
+ bangor lodge                      0.000455
+ nanto                             0.000455
+ earle haven retirement village    0.000455
+Name: address_2, Length: 1589, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ suburb
+
+Unique values: 
+ 1378
+
+Value counts: 
+                    45
+ toowoomba         11
+ ashfield          10
+ brighton           9
+ st albans          9
+                   ..
+ oakey              1
+ numeralla          1
+ corndalw           1
+ carina yeights     1
+ kurwongbah         1
+Name: suburb, Length: 1378, dtype: int64
+
+Percentage of each unique value: 
+                   0.020455
+ toowoomba         0.005000
+ ashfield          0.004545
+ brighton          0.004091
+ st albans         0.004091
+                     ...   
+ oakey             0.000455
+ numeralla         0.000455
+ corndalw          0.000455
+ carina yeights    0.000455
+ kurwongbah        0.000455
+Name: suburb, Length: 1378, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ postcode
+
+Unique values: 
+ 1138
+
+Value counts: 
+ 4740    15
+4551    11
+6056    11
+4670    10
+2795     9
+        ..
+3912     1
+7325     1
+3735     1
+4115     1
+850      1
+Name: postcode, Length: 1138, dtype: int64
+
+Percentage of each unique value: 
+4740    0.006818
+4551    0.005000
+6056    0.005000
+4670    0.004545
+2795    0.004091
+          ...   
+3912    0.000455
+7325    0.000455
+3735    0.000455
+4115    0.000455
+850     0.000455
+Name: postcode, Length: 1138, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ state
+
+Unique values: 
+ 33
+
+Value counts: 
+  nsw    701
+ vic    532
+ qld    400
+ wa     218
+ sa     160
+ tas     56
+         52
+ act     26
+ nt      13
+ vci      6
+ nws      5
+ qdl      3
+ nss      3
+ vix      3
+ nsq      3
+ aw       2
+ wq       1
+ vid      1
+ qod      1
+ sk       1
+ sz       1
+ fic      1
+ vco      1
+ sj       1
+ ni       1
+ qle      1
+ as       1
+ st       1
+ tsa      1
+ ndw      1
+ vfc      1
+ nww      1
+ nse      1
+Name: state, dtype: int64
+
+Percentage of each unique value: 
+ nsw    0.318636
+ vic    0.241818
+ qld    0.181818
+ wa     0.099091
+ sa     0.072727
+ tas    0.025455
+        0.023636
+ act    0.011818
+ nt     0.005909
+ vci    0.002727
+ nws    0.002273
+ qdl    0.001364
+ nss    0.001364
+ vix    0.001364
+ nsq    0.001364
+ aw     0.000909
+ wq     0.000455
+ vid    0.000455
+ qod    0.000455
+ sk     0.000455
+ sz     0.000455
+ fic    0.000455
+ vco    0.000455
+ sj     0.000455
+ ni     0.000455
+ qle    0.000455
+ as     0.000455
+ st     0.000455
+ tsa    0.000455
+ ndw    0.000455
+ vfc    0.000455
+ nww    0.000455
+ nse    0.000455
+Name: state, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ date_of_birth
+
+Unique values: 
+ 2054
+
+Value counts: 
+             79
+19940208     3
+19561107     3
+19380511     2
+19770628     2
+            ..
+19300816     1
+19851022     1
+19060228     1
+19641121     1
+19250508     1
+Name: date_of_birth, Length: 2054, dtype: int64
+
+Percentage of each unique value: 
+            0.035909
+19940208    0.001364
+19561107    0.001364
+19380511    0.000909
+19770628    0.000909
+              ...   
+19300816    0.000455
+19851022    0.000455
+19060228    0.000455
+19641121    0.000455
+19250508    0.000455
+Name: date_of_birth, Length: 2054, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ soc_sec_id
+
+Unique values: 
+ 2200
+
+Value counts: 
+ 3155906    1
+8127929    1
+4919547    1
+9981980    1
+3815665    1
+          ..
+8251151    1
+2929679    1
+6195510    1
+1156023    1
+9397671    1
+Name: soc_sec_id, Length: 2200, dtype: int64
+
+Percentage of each unique value: 
+3155906    0.000455
+8127929    0.000455
+4919547    0.000455
+9981980    0.000455
+3815665    0.000455
+             ...   
+8251151    0.000455
+2929679    0.000455
+6195510    0.000455
+1156023    0.000455
+9397671    0.000455
+Name: soc_sec_id, Length: 2200, dtype: float64
+
+Sum of null values: 
+0

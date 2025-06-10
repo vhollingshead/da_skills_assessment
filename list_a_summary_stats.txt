@@ -1,0 +1,356 @@
+Column: 
+ first_name
+
+Unique values: 
+ 596
+
+Value counts: 
+              54
+ emiily      43
+ joshua      35
+ jack        32
+ lachlan     31
+             ..
+ zakariah     1
+ peta         1
+ savannah     1
+ iain         1
+ billy        1
+Name: first_name, Length: 596, dtype: int64
+
+Percentage of each unique value: 
+             0.024368
+ emiily      0.019404
+ joshua      0.015794
+ jack        0.014440
+ lachlan     0.013989
+               ...   
+ zakariah    0.000451
+ peta        0.000451
+ savannah    0.000451
+ iain        0.000451
+ billy       0.000451
+Name: first_name, Length: 596, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ last_name
+
+Unique values: 
+ 1057
+
+Value counts: 
+  white           61
+ clarke          55
+ green           42
+ webb            40
+ reid            37
+                 ..
+ kincaid          1
+ gigney           1
+ moolenaar        1
+ zoanetti         1
+ graham-jones     1
+Name: last_name, Length: 1057, dtype: int64
+
+Percentage of each unique value: 
+ white           0.027527
+ clarke          0.024819
+ green           0.018953
+ webb            0.018051
+ reid            0.016697
+                   ...   
+ kincaid         0.000451
+ gigney          0.000451
+ moolenaar       0.000451
+ zoanetti        0.000451
+ graham-jones    0.000451
+Name: last_name, Length: 1057, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ street_num
+
+Unique values: 
+ 311
+
+Value counts: 
+ 1      76
+       72
+5      70
+6      66
+2      61
+       ..
+145     1
+242     1
+528     1
+111     1
+142     1
+Name: street_num, Length: 311, dtype: int64
+
+Percentage of each unique value: 
+1      0.034296
+       0.032491
+5      0.031588
+6      0.029783
+2      0.027527
+         ...   
+145    0.000451
+242    0.000451
+528    0.000451
+111    0.000451
+142    0.000451
+Name: street_num, Length: 311, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ address_1
+
+Unique values: 
+ 1486
+
+Value counts: 
+                       50
+ forbes street        11
+ totterdell street    10
+ badimara street       8
+ duffy street          6
+                      ..
+ mcalpine place        1
+ hosking place         1
+ fitzalan street       1
+ willyama place        1
+ wyola place           1
+Name: address_1, Length: 1486, dtype: int64
+
+Percentage of each unique value: 
+                      0.022563
+ forbes street        0.004964
+ totterdell street    0.004513
+ badimara street      0.003610
+ duffy street         0.002708
+                        ...   
+ mcalpine place       0.000451
+ hosking place        0.000451
+ fitzalan street      0.000451
+ willyama place       0.000451
+ wyola place          0.000451
+Name: address_1, Length: 1486, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ address_2
+
+Unique values: 
+ 1476
+
+Value counts: 
+                           190
+ rowethorpe                20
+ brentwood vlge            17
+ rosetta village           16
+ the willows               11
+                         ... 
+ public school reserve      1
+ moreton                    1
+ old airdmillan road        1
+ station homestead          1
+ australian fair west       1
+Name: address_2, Length: 1476, dtype: int64
+
+Percentage of each unique value: 
+                          0.085740
+ rowethorpe               0.009025
+ brentwood vlge           0.007671
+ rosetta village          0.007220
+ the willows              0.004964
+                            ...   
+ public school reserve    0.000451
+ moreton                  0.000451
+ old airdmillan road      0.000451
+ station homestead        0.000451
+ australian fair west     0.000451
+Name: address_2, Length: 1476, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ suburb
+
+Unique values: 
+ 1108
+
+Value counts: 
+  toowoomba          21
+                    20
+ frankston          16
+ belmont            12
+ port macquarie     12
+                    ..
+ farrer              1
+ lawson              1
+ wentworth falls     1
+ deagon              1
+ bundamba            1
+Name: suburb, Length: 1108, dtype: int64
+
+Percentage of each unique value: 
+ toowoomba          0.009477
+                    0.009025
+ frankston          0.007220
+ belmont            0.005415
+ port macquarie     0.005415
+                      ...   
+ farrer             0.000451
+ lawson             0.000451
+ wentworth falls    0.000451
+ deagon             0.000451
+ bundamba           0.000451
+Name: suburb, Length: 1108, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ state
+
+Unique values: 
+ 9
+
+Value counts: 
+  nsw    746
+ vic    537
+ qld    413
+ wa     239
+ sa     153
+ tas     58
+ act     32
+         23
+ nt      15
+Name: state, dtype: int64
+
+Percentage of each unique value: 
+ nsw    0.336643
+ vic    0.242329
+ qld    0.186372
+ wa     0.107852
+ sa     0.069043
+ tas    0.026173
+ act    0.014440
+        0.010379
+ nt     0.006769
+Name: state, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ postcode
+
+Unique values: 
+ 1029
+
+Value counts: 
+ 4740    15
+4670    12
+4214     9
+2229     9
+2540     9
+        ..
+2105     1
+4730     1
+2784     1
+5171     1
+2163     1
+Name: postcode, Length: 1029, dtype: int64
+
+Percentage of each unique value: 
+4740    0.006769
+4670    0.005415
+4214    0.004061
+2229    0.004061
+2540    0.004061
+          ...   
+2105    0.000451
+4730    0.000451
+2784    0.000451
+5171    0.000451
+2163    0.000451
+Name: postcode, Length: 1029, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ DOB
+
+Unique values: 
+ 2106
+
+Value counts: 
+             41
+19900523     2
+19361017     2
+19680909     2
+19021008     2
+            ..
+19561029     1
+19671009     1
+19490204     1
+19951020     1
+19000619     1
+Name: DOB, Length: 2106, dtype: int64
+
+Percentage of each unique value: 
+            0.018502
+19900523    0.000903
+19361017    0.000903
+19680909    0.000903
+19021008    0.000903
+              ...   
+19561029    0.000451
+19671009    0.000451
+19490204    0.000451
+19951020    0.000451
+19000619    0.000451
+Name: DOB, Length: 2106, dtype: float64
+
+Sum of null values: 
+0
+Column: 
+ SSN
+
+Unique values: 
+ 2200
+
+Value counts: 
+ 3927795.0    1
+4066625.0    1
+4857758.0    1
+7353997.0    1
+1997517.0    1
+            ..
+2553510.0    1
+5930609.0    1
+3898794.0    1
+1293288.0    1
+5013227.0    1
+Name: SSN, Length: 2200, dtype: int64
+
+Percentage of each unique value: 
+3927795.0    0.000455
+4066625.0    0.000455
+4857758.0    0.000455
+7353997.0    0.000455
+1997517.0    0.000455
+               ...   
+2553510.0    0.000455
+5930609.0    0.000455
+3898794.0    0.000455
+1293288.0    0.000455
+5013227.0    0.000455
+Name: SSN, Length: 2200, dtype: float64
+
+Sum of null values: 
+16

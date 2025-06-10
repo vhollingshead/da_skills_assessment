@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+scikit-learn
+nbconvert
+# greenlet --only-binary :all:
+# sqlalchemy
+# pymssql
+# pyodbc==4.0.27
