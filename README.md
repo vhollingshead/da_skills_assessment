@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# da_skills_assessment
-=======
 # DA Skills Statement - SQL Demo
 
 As part of this statement, I stood up a **Microsoft SQL Server** instance in a Docker container and accessed it through the **MSSQL extension** on VSCode (as it is replacing Azure Data Studio), built a database containing the Link A and Link B datasets provided in the DA Skills Assessment, and queried the data into the **Hollingshead_SQL demo.ipynb** notebook using **pyodbc**. The full setup is easily replicable using the steps and scripts provided in my GitHub repository here.
@@ -70,4 +67,3 @@ Tools: SQL Server in Docker, VS Code, MSSQL extension, Python
 The outputs of this project are:
 - Git repository with the project code and data.
 - Virtual environment setup with all necessary dependencies to help outside contributors run the project.
->>>>>>> 3247a1a (updated requirements.txt and README)
